@@ -7,8 +7,5 @@ public class Main {
         System.out.print(resultado.r);
         resultado.multiplicar(34, 2);
         System.out.print(resultado.r);
-        resultado.potencia(2, 3);
-        System.out.print(resultado.r);
-        
     }
 }
